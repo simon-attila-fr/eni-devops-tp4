@@ -1,0 +1,28 @@
+{
+  "name": "eni-devops-tp4",
+  "version": "1.0.0",
+  "description": "Lab in ENI School of Information Technology. Handling CI/CD in GitHub Actions.\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[C\u001b[D, Nantes, France. \u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[D\u001b[C\u001b[2~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[1;6C\u001b[1;6C\u001b[1;6C\u001b[1;6C\u001b[1;6C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[. Handling CI/CD in GitHub actions.",
+  "keywords": [
+    "ci",
+    "cd",
+    "actions"
+  ],
+  "homepage": "https://github.com/simon-attila-fr/eni-devops-tp4#readme",
+  "bugs": {
+    "url": "https://github.com/simon-attila-fr/eni-devops-tp4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon-attila-fr/eni-devops-tp4.git"
+  },
+  "license": "MIT",
+  "author": "Attila Simon",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
