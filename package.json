@@ -20,7 +20,7 @@
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "devDependencies": {
     "jest": "^30.4.2"
